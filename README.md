@@ -1,2 +1,6 @@
-# web-335
-Class Work from WEB-335
+# WEB-335
+Introduction to NoSQL
+# Contributors
+Jared Brown - Belleveu University
+
+Professor Krasso - Bellevue University
